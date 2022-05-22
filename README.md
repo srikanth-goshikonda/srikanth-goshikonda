@@ -1,3 +1,4 @@
+<image src=https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" align="right" alt="coding" width="400">
 <h1 align="center">Hello all 👋, I'm Srikanth Goshikonda</h1>
 <h3 align="center">Full-stack Java Web Developer based in Hyderabad, Telangana</h3>
 
