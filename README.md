@@ -1,10 +1,8 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Srikanth Goshikonda</h1>
 <h3 align="center">Full-stack Java Web Developer based in Hyderabad, Telangana</h3>
-<img align="right" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="coding" width="300"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth-goshikonda&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth-goshikonda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth-goshikonda" alt="srikanth-goshikonda" /></a> </p>
+<img align="right" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="coding" width="300"></img>
 <p align="left"> <a href="https://twitter.com/srikanthnani383" target="blank"><img src="https://img.shields.io/twitter/follow/srikanthnani383?logo=twitter&style=for-the-badge" alt="srikanthnani383" /></a> </p>
 
 
@@ -18,6 +16,7 @@
 
 - ⚡ Fun fact **Experience is the name everyone gives to their mistakes**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth-goshikonda" alt="srikanth-goshikonda" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
