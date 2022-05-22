@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Accounting Engine Web App**
 
-- 🌱 I’m currently learning **Amazon Web Cloud- Developer Associate Level**
+- 🌱 I’m currently learning **Amazon Web Services- Developer Associate Level**
 
-- 💬 Ask me about **Java, Spring, Spring Boot**
+- 💬 Ask me about **Java, Spring, Spring Boot** 
 
 - 📫 How to reach me **srikanthgoshikonda@gmail.com**
 
