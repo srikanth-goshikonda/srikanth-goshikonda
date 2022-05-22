@@ -1,7 +1,7 @@
-<img align="right" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="coding" width="400"></img>
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hello all 👋, I'm Srikanth Goshikonda</h1>
 <h3 align="center">Full-stack Java Web Developer based in Hyderabad, Telangana</h3>
-
+<img align="right" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="coding" width="400"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth-goshikonda&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth-goshikonda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanth-goshikonda" alt="srikanth-goshikonda" /></a> </p>
