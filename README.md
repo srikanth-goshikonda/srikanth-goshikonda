@@ -21,8 +21,8 @@
 
 <p align="left">
 <a href="https://twitter.com/srikanthnani383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srikanthnani383" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srikanth-goshikonda-a433ab182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srikanth-goshikonda-a433ab182/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/srikanthgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/srikanthgo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srikanth-goshikonda-a433ab182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srikanth-goshikonda-a433ab182/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srikanthgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/srikanthgo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
